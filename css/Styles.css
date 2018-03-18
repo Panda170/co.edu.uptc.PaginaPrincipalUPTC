@@ -1,4 +1,32 @@
 .borde{
 	border: solid red 2px;
-
 }
+.styleButtonGroup{
+	background-color: black;
+}
+.styleButtonGroup:hover{
+	background-color: #E4A900;
+	color: black;
+}
+
+.styleButtonGroupDropdown{
+	background-color: black;
+	color: white;
+}
+.styleButtonGroupDropdown{
+	background-color: black;
+	color: white;
+}
+.styleButtonDropdown{
+	color: white;
+}
+.styleButtonDropdown:hover{
+	background-color: #E4A900;
+	color: black;
+}
+/*
+<hr color="blue" size=3>
+.styleButtonGroupDropdown:hover{
+	background-color: #E4A900;
+	color: black;
+}*/
